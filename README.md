@@ -1,4 +1,4 @@
 # LockBlocks
-The code for Lock Blocks will be posted here once someone hits the max score of 99,999. Tap watch to stay posted!
+Once a player hits the max score of 99,999, the source code of Lock Blocks and the player's Game Center username will be posted here. Tap watch to stay posted!
 
 # Download the game free on the [App Store]()
